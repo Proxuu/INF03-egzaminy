@@ -1,0 +1,7 @@
+*{
+    font-family: Veranda;
+}
+img[src="motor.png"]{
+    display: block;
+    margin-left: 15%;
+}
